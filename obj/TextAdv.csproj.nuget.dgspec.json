@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dschumann\\Desktop\\Internet Explorer\\Info-AG\\TextAdv\\TextAdv.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dschumann\\Desktop\\Internet Explorer\\Info-AG\\TextAdv\\TextAdv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dschumann\\Desktop\\Internet Explorer\\Info-AG\\TextAdv\\TextAdv.csproj",
+        "projectName": "TextAdv",
+        "projectPath": "C:\\Users\\dschumann\\Desktop\\Internet Explorer\\Info-AG\\TextAdv\\TextAdv.csproj",
+        "packagesPath": "C:\\Users\\dschumann\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dschumann\\Desktop\\Internet Explorer\\Info-AG\\TextAdv\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dschumann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

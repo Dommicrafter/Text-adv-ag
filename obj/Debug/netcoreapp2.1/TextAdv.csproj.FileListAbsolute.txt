@@ -1,0 +1,12 @@
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\assets\test.txt
+C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.deps.json
+C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.runtimeconfig.json
+C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.runtimeconfig.dev.json
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.dll
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.pdb
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.csprojAssemblyReference.cache
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.csproj.CoreCompileInputs.cache
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.AssemblyInfoInputs.cache
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.AssemblyInfo.cs
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.dll
+c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\obj\Debug\netcoreapp2.1\TextAdv.pdb
