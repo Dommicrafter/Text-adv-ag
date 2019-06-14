@@ -13,12 +13,13 @@ namespace TextAdv
             }
 
             System.Console.WriteLine();
-            foreach(string s in txt.Antworten)
+            foreach(string s in txt.Antworten.Keys)
             {
                 System.Console.WriteLine(s);
+                //TODO: Text 1:
             }
-            MainLoop();
-
+            //System.Console.ReadLine();
+            //MainLoop();
         }
     }
 }

@@ -8,6 +8,7 @@ namespace TextAdv
     {
         static void Main(string[] args)
         {
+            GameLoop.MainLoop("home.txt");
 
             
         }

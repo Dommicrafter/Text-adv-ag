@@ -25,9 +25,14 @@ namespace TextAdv
                     Ausgabe.Add(temp);
                 } else
                 {
+                    if (!temp.Contains('|'))
+                    {
+                        Antworten.Add(temp,"");
+                        continue;
+                    }
                     string[] split = temp.Split('|');
+                    
                     Antworten.Add(split[0], split[1]);
-                    //TODO: Die verschieden Inputs falls Zeile leer bspw. interpretiern
                 }
             }
             StoryStep result = new StoryStep(Ausgabe, Antworten);

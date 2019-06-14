@@ -1,4 +1,3 @@
-c:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\assets\test.txt
 C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.deps.json
 C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.runtimeconfig.json
 C:\Users\dschumann\Desktop\Internet Explorer\Info-AG\TextAdv\bin\Debug\netcoreapp2.1\TextAdv.runtimeconfig.dev.json

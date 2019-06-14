@@ -3,6 +3,6 @@ Der steht irgendwo
 und sieht toll aus!
 Ende!
 >
-Gehe nach Süden|a.txt
-mach Das|b.txt
-Mach dies|c.txt
+1: Gehe nach Süden
+2: mach Das|b.txt
+3: Mach dies|c.txt

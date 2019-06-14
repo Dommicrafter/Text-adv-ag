@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-      <EmbeddedResource Include="assets\test.txt">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </EmbeddedResource>
+      
   </ItemGroup>
 
 </Project>
